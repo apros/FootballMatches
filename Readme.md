@@ -34,7 +34,7 @@ This project is a web application that displays football matches in a carousel f
    node server.js
    ```
 
-   You also need to run proxyServer.js to run the API server.
+   It would be best if you also ran proxyServer.js to run the API server.
 
    ```bash
    node proxyServer.mjs
@@ -43,6 +43,10 @@ This project is a web application that displays football matches in a carousel f
 3. **Open the Application**
 
    Open your web browser and navigate to `http://localhost:3000` to view the application.
+
+   ![Screenshot 2024-12-04 000807](https://github.com/user-attachments/assets/62adb869-2265-4677-9127-e41f7b00746f)
+
+   ![Screenshot 2024-12-04 000642](https://github.com/user-attachments/assets/633b8d5e-3df8-4cd7-a4d4-1d82e7784fda)
 
 ## Usage
 
